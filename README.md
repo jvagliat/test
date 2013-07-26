@@ -1,11 +1,11 @@
 doorbot-android
 ===============
 
-## DoorbootAndroid Project
+## DoorbootAndroid project setup
 ### Edit doorbot web app base url
 Edit res/values/doorbot-web.xml and set your server url
 
-### Configure and Import SherlockActionBar project
+### Configure and import SherlockActionBar project
 (Eclipse instructions)
 
 Create ActionBarSherlock Project in Eclipse.
@@ -22,4 +22,5 @@ Modify DoorbotAndroid project
 
 2. Add ActionBarSherlok project as Library (Project>Properties>Android>Libraries)
 
+### Done
 Clean all.

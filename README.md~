@@ -1,7 +1,7 @@
 doorbot-android
 ===============
 
-## DoorbootAndroid Project
+## DoorbootAndroid project setup
 ### Edit doorbot web app base url
 Edit res/values/doorbot-web.xml and set your server url
 
@@ -20,4 +20,6 @@ Modify DoorbotAndroid project
 
 1. Set/check build target to 4.0+
 
-2. Add ActionBarSherlok project as Library (Project>Properties>Android>Libraries)	
+2. Add ActionBarSherlok project as Library (Project>Properties>Android>Libraries)
+
+Clean all.
